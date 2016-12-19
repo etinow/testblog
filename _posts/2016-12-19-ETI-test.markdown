@@ -7,7 +7,7 @@
 <center><iframe width="560" height="420" src="https://www.youtube.com/embed/sf1N0Zf5IqA" frameborder="0" allowfullscreen="" style="text-align: center;"></iframe></center>
 <center>L-Dopa 복용 전후 파킨슨 병 증상 비교</center>
   
-Voyager에서는 이 AADC 의 유전자를 삽입한 바이러스를 뇌에 주입해서, 뇌 세포의 DNA를 업데이트하여 해당 세포가 AADC를 다시 생산하게 하려 하고 있습니다. 2014년 창업한 Voyager는 1년만에 총 1억 3500만 달러의 투자를 받고 작년 11월 나스닥에 상장하였습니다. 현재는 유럽 제약회사 Sanofi의 자회사인 Genzyme과 파트너를 맺고 여러 희귀 질환에 대한 유전 치료법을 개발하고 있습니다. Voyager의 CEO Steven Paul은 약물 치료법과는 달리 유전자 치료는 성공확률이 매우 높다고 하였습니다. 유전자 치료를 진행하려면 해당 유전자의 기작이 모두 알려져 있는 상태에서 진행하기 때문에 해당 유전자를 원래대로 고칠 수만 있다면 치료에 실패하기가 힘들다고 합니다. 하지만 이전까지는 이렇게 유전자를 정확히 고치는 기술을 구현하는 것이 기술적으로 어려웠습니다. 
+Voyager에서는 이 AADC 의 유전자를 삽입한 바이러스를 뇌에 주입해서, 뇌 세포의 DNA를 업데이트하여 해당 세포가 AADC를 다시 생산하게 하려 하고 있습니다. 2014년 창업한 Voyager는 1년만에 총 1억 3500만 달러의 투자를 받고 작년 11월 나스닥에 상장하였습니다. 현재는 유럽 제약회사 Sanofi의 자회사인 Genzyme과 파트너를 맺고 여러 희귀 질환에 대한 유전 치료법을 개발하고 있습니다. Voyager의 CEO Steven Paul은 약물 치료법과는 달리 유전자 치료는 성공확률이 매우 높다고 하였습니다. 유전자 치료를 진행하려면 해당 유전자의 기작이 모두 알려져 있는 상태에서 진행하기 때문에 해당 유전자를 원래대로 고칠 수만 있다면 치료에 실패하기가 힘들다고 합니다. 하지만 이전까지는 이렇게 유전자를 정확히 고치는 기술을 구현하는 것이 기술적으로 어려웠습니다.
 <center><img src="http://voyagertherapeutics.com/img/voyager-pipeline.jpg" width="520"/></center>
 <center>Voyager Therapeutics 제품군</center>
   
